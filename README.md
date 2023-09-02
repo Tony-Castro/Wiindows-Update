@@ -2,6 +2,7 @@
 Created this PowerShell to install windows updates
 
 Set-ExecutionPolicy Unrestricted
+
 Set-ExecutionPolicy RemoteSigned
 
 Install-Module -Name PSWindowsUpdate
